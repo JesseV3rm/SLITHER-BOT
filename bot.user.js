@@ -9,7 +9,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 // @namespace    http://slither.io/
 // @version      1.2.9
 // @description  Slither.io bot
-// @author       Ermiya Eskandary & Théophile Cailliau
+// @author       Jesse Pinkman
 // @match        http://slither.io/
 // @grant        none
 // ==/UserScript==
